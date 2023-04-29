@@ -1,0 +1,15 @@
+@media (prefers-color-scheme: dark) {
+    body {
+        --orange: #ffa500;
+        --grey: #4d4d4d;
+        --white: #ffffff;
+    }
+}
+
+@media (prefers-color-scheme: light) {
+    body {
+        --orange: #c78100;
+        --grey: #565656;
+        --white: #000000;
+    }
+}
